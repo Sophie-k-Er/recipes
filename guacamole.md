@@ -12,5 +12,4 @@
 
 
 ## Instructions
-- put one avocado into a bowl
-- press the lemon
+- put one avocado into a bowl and press the lemon
