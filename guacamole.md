@@ -12,6 +12,4 @@
 
 
 ## Instructions
-- cut the tomato into super small bits
-- peel the avocado
 - put one avocado into a bowl
